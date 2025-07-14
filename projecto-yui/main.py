@@ -1,4 +1,7 @@
-from utils.db import listar_usuarios
+from utils.db import listar_usuarios, crear_bd_usuario
 
-usuarios = listar_usuarios()
-print("Usuarios encontrados:", usuarios)
+crear_bd_usuario("Gabriel")
+listar_usuarios()
+
+usuario = listar_usuarios()
+print(f"usuarios encontrados:", usuario)
