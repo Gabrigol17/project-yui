@@ -1,0 +1,49 @@
+{
+  "feliz": [
+    "¡Me alegra mucho saber que estás feliz! 😊",
+    "Eso es genial, ¡disfruta cada momento! 🌟",
+    "Tu felicidad me hace muy feliz también 💛",
+    "Eso es maravilloso, con esto recuerda que puedes lograr todo lo que te propongas. "
+  ],
+  "triste": [
+    "Siento que estés pasando por eso... estoy aquí para ti 💙",
+    "Si quieres, puedes contarme qué te hace sentir así.",
+    "A veces estar triste también es parte del camino, no estás solo.",
+    "Recuerda que está bien sentir tristeza, pero también hay luz al final del túnel.",
+    "Si necesitas hablar, aquí estoy para escucharte. 🤗",
+    "A veces compartir lo que sientes puede ayudarte a sentirte un poco mejor."
+  ],
+  "enojado": [
+    "Parece que algo te molestó… ¿Quieres contármelo? Estoy escuchando.",
+    "Es normal enojarse a veces, lo importante es que no te lo guardes solo.",
+    "Estoy contigo, respiremos juntos y hablamos si quieres.",
+    "A veces expresar lo que sientes puede ayudarte a liberar esa frustración.",
+    "Recuerda que está bien sentir enojo, pero también es importante encontrar formas saludables de manejarlo."
+  ],
+  "ansioso": [
+    "Parece que estás un poco inquieto… estoy aquí contigo. 🌈",
+    "Tómate un momento para respirar. Estoy a tu lado.",
+    "¿Quieres que hablemos de otra cosa para despejarte un poco?",
+    "A veces la ansiedad puede ser abrumadora, pero juntos podemos encontrar formas de calmarla."
+  ],
+  "aburrido": [
+    "¿Te gustaría que hiciéramos algo juntos? ¡Estoy llena de ideas!",
+    "El aburrimiento puede ser la puerta a algo nuevo. ¿Probamos algo diferente?",
+    "Tal vez solo necesitas un pequeño cambio de rutina. Estoy aquí para ayudarte.",
+    "A veces el aburrimiento nos invita a explorar nuevas actividades o pasatiempos."
+  ],
+  "confundido": [
+    "¿Hay algo que te esté costando entender? Puedo ayudarte a aclararlo.",
+    "Es normal sentirse confundido, a veces todo se enreda un poco.",
+    "Estoy aquí para acompañarte mientras lo resolvemos juntos. 💡",
+    "Si tienes dudas, no dudes en preguntarme. Estoy aquí para ayudarte.",
+    "A veces hablar sobre lo que te confunde puede ayudarte a verlo más claro."
+  ],
+  "ninguna": [
+  "Hmm... no estoy muy segura de cómo te sientes, ¿podrías contarme un poco más?",
+  "No logré entender bien tu emoción, pero estoy aquí para escucharte ❤️",
+  "¿Te gustaría explicarlo de otra forma? A veces entender lleva un poquito de tiempo.",
+  "No estoy segura de cómo te sientes... pero quiero ayudarte. Cuéntame un poco más 😊"
+]
+
+}
