@@ -24,6 +24,7 @@ def analizar_emocion(texto_usuario):
     max_conteo = max(conteo_emociones.values())
 
     # Devolver todas las emociones que tengan ese máximo conteo
-    emociones_detectadas = [emocion for emocion, conteo in conteo_emociones.items() if conteo == max_conteo]
+    emociones_detectadas = [emocion for emocion, conteo in conteo_emociones.items() 
+                            if conteo == max_conteo]
 
     return emociones_detectadas
