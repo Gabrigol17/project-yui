@@ -6,5 +6,6 @@ estado_animo = {
     "enojado": ["enojado", "molesto", "furioso", "irritado", "frustrado"],
     "ansioso": ["ansioso", "nervioso", "estresado", "inquieto", "preocupado"],
     "aburrido": ["aburrido", "cansado", "desmotivado", "sin ganas", "apatía"],
-    "confundido": ["confundido", "no entiendo", "ayuda", "perdido", "dudas"]
-}
+    "confundido": ["confundido", "no entiendo", "ayuda", "perdido", "dudas"],
+    "agradecimiento": ["gracias", "agradecido", "aprecio", "reconocimiento", "gratitud"]
+} 

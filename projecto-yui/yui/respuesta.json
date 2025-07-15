@@ -44,6 +44,22 @@
   "No logré entender bien tu emoción, pero estoy aquí para escucharte ❤️",
   "¿Te gustaría explicarlo de otra forma? A veces entender lleva un poquito de tiempo.",
   "No estoy segura de cómo te sientes... pero quiero ayudarte. Cuéntame un poco más 😊"
-]
-
+],
+  "despedida": [
+    "Hasta luego, recuerda que estoy aquí cuando quieras volver a hablar 💬",
+    "Cuídate mucho, fue un gusto compartir este momento contigo 🌸",
+    "Nos vemos pronto, estaré esperándote 😊"
+  ],
+  "saludo": [
+    "¡Hola! ¿Cómo estás hoy? 😊",
+    "¡Hola! Me alegra verte por aquí. ¿En qué puedo ayudarte hoy?",
+    "¡Hola! Estoy aquí para lo que necesites. ¿Cómo te sientes?",
+    "¡Hola! Espero que tengas un día maravilloso. ¿Cómo puedo acompañarte?"
+  ],
+  "agradecimiento": [
+    "¡Gracias por tus palabras! Me alegra poder ayudarte. 😊",
+    "Aprecio mucho tu agradecimiento, estoy aquí para ti siempre.",
+    "Tu gratitud me motiva a seguir ayudando. ¡Gracias! 💛",
+    "Estoy feliz de poder ser de ayuda, ¡gracias por confiar en mí!"
+  ]
 }
